@@ -1,0 +1,147 @@
+1639298400400	geckodriver	INFO	Listening on 127.0.0.1:55489
+1639298403440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilesBeDQI"
+1639298406244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639298410045	Marionette	INFO	Listening on port 55497
+1639298410473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639298413634	Marionette	INFO	Stopped listening on port 55497
+[Child 6852, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639298512450	geckodriver	INFO	Listening on 127.0.0.1:49798
+1639298515492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileopION8"
+1639298516059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639298518791	Marionette	INFO	Listening on port 49806
+1639298519212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639298523204	Marionette	INFO	Stopped listening on port 49806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639298786276	geckodriver	INFO	Listening on 127.0.0.1:55971
+1639298789315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileUobZQU"
+1639298789804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639298792293	Marionette	INFO	Listening on port 55984
+1639298792522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639298796733	Marionette	INFO	Stopped listening on port 55984
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639303159675	geckodriver	INFO	Listening on 127.0.0.1:62241
+1639303162705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilejrZcaz"
+1639303163530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639303166400	Marionette	INFO	Listening on port 62249
+1639303166439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639303170533	Marionette	INFO	Stopped listening on port 62249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639304039336	geckodriver	INFO	Listening on 127.0.0.1:63168
+1639304042362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVFm6hr"
+1639304042850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639304045626	Marionette	INFO	Listening on port 63176
+1639304046079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639304049489	Marionette	INFO	Stopped listening on port 63176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639304252680	geckodriver	INFO	Listening on 127.0.0.1:52840
+1639304255713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilevwNabe"
+1639304256240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639304258975	Marionette	INFO	Listening on port 52849
+1639304259439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639304263125	Marionette	INFO	Stopped listening on port 52849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639304369366	geckodriver	INFO	Listening on 127.0.0.1:55413
+1639304372422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilej3Ym2Y"
+1639304372985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639304375573	Marionette	INFO	Listening on port 55421
+1639304375625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639304378951	Marionette	INFO	Stopped listening on port 55421
+[Parent 8900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639304600497	geckodriver	INFO	Listening on 127.0.0.1:59312
+1639304603519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileIztchk"
+1639304604075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639304606705	Marionette	INFO	Listening on port 59320
+1639304607232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639304610515	Marionette	INFO	Stopped listening on port 59320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639304802347	geckodriver	INFO	Listening on 127.0.0.1:60404
+1639304805392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileSa5Fyu"
+1639304805973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1639304808627	Marionette	INFO	Listening on port 60412
+1639304809094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639304822778	Marionette	INFO	Stopped listening on port 60412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\DELL\PycharmProjects\Amazon_POM\Drivers\geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
